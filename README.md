@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm [Shreyansh], a passionate [Developer] who love
 🌱 I’m currently learning and growing in [Machine Learning / Algorthims].
 
 
-Explore more about me through my [portfolio](https://kiritoind-dev.vercel.app).
+Explore more about me through my [Portfolio](https://kiritoind-dev.vercel.app).
 
 Feel free to connect with me! I'm always up for interesting discussions and collaborations.
 
