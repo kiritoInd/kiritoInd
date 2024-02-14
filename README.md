@@ -1,4 +1,12 @@
+# Hello there! 👋
 
-<h1 style="font-family:Poppins,garamond,serif;);
-"  >Hi there !</h1>
-<h3>Getting better everyday!</h3>
+Welcome to my GitHub profile! I'm [Shreyansh], a passionate [Developer] who loves to explore the world of technology and coding.
+
+🌱 I’m currently learning and growing in [Machine Learning / Algorthims].
+
+
+Explore more about me through my [portfolio](https://kiritoind-dev.vercel.app).
+
+Feel free to connect with me! I'm always up for interesting discussions and collaborations.
+
+****
