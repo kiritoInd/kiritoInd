@@ -10,4 +10,5 @@ Welcome to my GitHub profile! I'm [Shreyansh], a passionate [Developer] who love
 
 🎗️ I have no enemies
 
-![kanojo_okarishimasu_322_1](https://github.com/kiritoInd/kiritoInd/assets/96108214/107f6508-0123-44a6-b492-957cbe104b42)
+![up](https://github.com/kiritoInd/kiritoInd/assets/96108214/79b131f5-941d-4257-9f73-00c563fd9a52)
+
